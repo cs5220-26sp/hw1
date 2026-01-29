@@ -15,7 +15,7 @@ The staff members must be given access to every student repository. The staff us
 
 ## Configuration
 
-Please [follow these instructions](https://github.com/CS5220-SP23/CLASS-SP24/tree/main/perlmutter-tutorial) to ensure your module configuration is correct to run the build system.
+Please [follow these instructions](https://github.com/cs5220-26sp/demos/blob/master/perlmutter-tutorial.md) to ensure your module configuration is correct to run the build system.
 
 ## Build System
 
